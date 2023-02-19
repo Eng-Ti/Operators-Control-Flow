@@ -355,6 +355,6 @@ console.log(x);// return 97
 
 3. What is the result when the following program is executed?
 
- for (let i = 1; i < 20; i +=7) {console.log (i);} return 1 
+ for (let i = 1; i < 20; i +=7) {console.log (i);} // return 1 
                                                           8 
                                                           15
